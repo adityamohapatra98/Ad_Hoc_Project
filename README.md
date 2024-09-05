@@ -6,7 +6,7 @@ Welcome to the Atliq Hardwares SQL Challenge repository! This project involves a
 
 1. Project Overview
 2. Resources
-3. [SQL Codes](https://github.com/adityamohapatra98/Ad_Hoc_Project/tree/main/Codes) .
+3. [SQL Codes](https://github.com/adityamohapatra98/Ad_Hoc_Project/tree/main/Codes) 
 4. [Visualizations](#visualizations)
 5. [Presentations](#ppt.pdf)
 
