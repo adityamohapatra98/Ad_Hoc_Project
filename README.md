@@ -1,6 +1,6 @@
-# Atliq Hardwares SQL Challenge
+# Atliq Hardwares SQL Project
 
-Welcome to the Atliq Hardwares SQL Challenge repository! This project involves analyzing data to generate insights based on ad-hoc requests from the management. The goal is to demonstrate both technical and soft skills through SQL queries and an engaging presentation.
+Welcome to the Atliq Hardwares SQL Project repository! This project involves analyzing data to generate insights based on ad-hoc requests from the management. The goal is to demonstrate both technical and soft skills through SQL queries and an engaging presentation.
 
 ## Table of Contents
 
