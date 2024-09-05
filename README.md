@@ -6,9 +6,9 @@ Welcome to the Atliq Hardwares SQL Challenge repository! This project involves a
 
 1. Project Overview
 2. Resources
-3. [SQL Codes](#sql-codes)
+3. [SQL Codes](#Codes)
 4. [Visualizations](#visualizations)
-5. [Presentations](#presentations)
+5. [Presentations](#ppt.pdf)
 
 ## Project Overview
 
