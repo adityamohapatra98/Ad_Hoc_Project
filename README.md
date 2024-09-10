@@ -6,7 +6,7 @@ Welcome to the Atliq Hardwares SQL Project repository! This project involves ana
 
 1. [SQL Codes](https://github.com/adityamohapatra98/Ad_Hoc_Project/tree/main/Codes) 
 2. [Visualizations](https://github.com/adityamohapatra98/Ad_Hoc_Project/blob/main/AtliQ%20Hardware.pbix)
-3. [Presentation](https://github.com/adityamohapatra98/Ad_Hoc_Project/blob/main/ppt.pdf)
+3. [Presentation](https://github.com/adityamohapatra98/Ad_Hoc_Project/blob/main/AtliQ%20Hardware.pdf)
 
 ## Project Overview
 
